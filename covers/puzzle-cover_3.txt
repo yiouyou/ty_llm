@@ -1,0 +1,68 @@
+
+cover img desc: a row of different colored crayons with cartoon dogs on them and a fireman on the front
+
+>>> kid_img2puzzle tokens: 1122
+<<<
+Color Recognition:
+1) Which is green dog crayon?
+2) Which is purple dog crayon?
+3) Which is blue dog crayon?
+4) Which is yellow dog crayon?
+5) Which is black dog crayon?
+6) Which is pink dog crayon?
+----------
+Shape Recognition:
+1) Which crayon is in the shape of a rectangle?
+2) Which crayon is in the shape of a square?
+3) Which crayon is in the shape of a circle?
+4) Which crayon is in the shape of a triangle?
+5) Which crayon is in the shape of a star?
+6) Which crayon is in the shape of a heart?
+----------
+Common Animal Recognition:
+1) Which dog on the crayons has spots?
+2) Which dog on the crayons has floppy ears?
+3) Which dog on the crayons has a curly tail?
+4) Which dog on the crayons has a collar?
+5) Which dog on the crayons has a bone in its mouth?
+6) Which dog on the crayons has a fireman hat on its head?
+----------
+Simple Counting:
+1) How many crayons are in the picture?
+2) How many dogs are on the crayons?
+3) How many colors are on the crayons?
+4) How many legs do all the dogs on the crayons have together?
+5) How many paws do all the dogs on the crayons have together?
+6) How many eyes do all the dogs on the crayons have together?
+----------
+Numbers Recognition:
+1) Which crayon has the number 1 on it?
+2) Which crayon has the number 2 on it?
+3) Which crayon has the number 3 on it?
+4) Which crayon has the number 4 on it?
+5) Which crayon has the number 5 on it?
+6) Which crayon has the number 6 on it?
+----------
+Emotion Recognition:
+1) Which dog on the crayons looks happy?
+2) Which dog on the crayons looks sad?
+3) Which dog on the crayons looks surprised?
+4) Which dog on the crayons looks angry?
+5) Which dog on the crayons looks scared?
+6) Which dog on the crayons looks excited?
+----------
+Size Comparison:
+1) Which is larger, the blue dog crayon or the pink dog crayon?
+2) Which is smaller, the yellow dog crayon or the purple dog crayon?
+3) Which is larger, the green dog crayon or the black dog crayon?
+4) Which is smaller, the pink dog crayon or the blue dog crayon?
+5) Which is larger, the purple dog crayon or the yellow dog crayon?
+6) Which is smaller, the black dog crayon or the green dog crayon?
+----------
+Addition and Subtraction:
+1) What is the sum of the numbers on the green and yellow dog crayons?
+2) What is the difference between the numbers on the pink and blue dog crayons?
+3) What is the sum of the numbers on the black and purple dog crayons?
+4) What is the difference between the numbers on the blue and green dog crayons?
+5) What is the sum of the numbers on the yellow and pink dog crayons?
+6) What is the difference between the numbers on the purple and black dog crayons?

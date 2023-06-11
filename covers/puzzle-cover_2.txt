@@ -1,0 +1,94 @@
+
+cover img desc: a row of different colored crayons with cartoon dogs on them and a fireman on the front
+
+>>> kid_img2puzzle tokens: 1122
+<<<
+Color recognition:
+1) Which crayon is green?
+2) Which crayon is purple?
+3) Which crayon is blue?
+4) Which crayon is yellow?
+5) Which crayon is black?
+6) Which crayon is pink?
+
+----------
+
+Shape recognition:
+1) Which crayon has a triangle shape on it?
+2) Which crayon has a rectangle shape on it?
+3) Which crayon has a star shape on it?
+4) Which crayon has a heart shape on it?
+5) Which crayon has a circle shape on it?
+6) Which crayon has a square shape on it?
+
+----------
+
+Common animal recognition:
+1) Which dog is brown?
+2) Which dog is white?
+3) Which dog is black?
+4) Which dog is gray?
+5) Which dog is orange?
+6) Which dog is yellow?
+
+----------
+
+Simple counting:
+1) How many crayons are in the row?
+2) How many dogs are on the crayons?
+3) How many legs do all the dogs have altogether?
+4) How many ears do all the dogs have altogether?
+5) How many eyes do all the dogs have altogether?
+6) How many tails do all the dogs have altogether?
+
+----------
+
+Emotion recognition:
+1) Which dog looks happy?
+2) Which dog looks sad?
+3) Which dog looks scared?
+4) Which dog looks surprised?
+5) Which dog looks angry?
+6) Which dog looks content?
+
+----------
+
+Size comparison:
+1) Which crayon is the longest?
+2) Which crayon is the shortest?
+3) Which dog is the biggest?
+4) Which dog is the smallest?
+5) Which crayon is bigger, the blue one or the pink one?
+6) Which dog is bigger, the yellow one or the black one?
+
+----------
+
+Letters recognition:
+1) Which crayon has the letter 'D' on it?
+2) Which crayon has the letter 'C' on it?
+3) Which crayon has the letter 'H' on it?
+4) Which crayon has the letter 'A' on it?
+5) Which crayon has the letter 'B' on it?
+6) Which crayon has the letter 'F' on it?
+
+----------
+
+Numbers recognition:
+1) Which crayon has the number 1 on it?
+2) Which crayon has the number 4 on it?
+3) Which crayon has the number 7 on it?
+4) Which crayon has the number 3 on it?
+5) Which crayon has the number 5 on it?
+6) Which crayon has the number 2 on it?
+
+----------
+
+The ability to add and subtract within 10:
+1) What is 3 + 2?
+2) What is 6 - 4?
+3) What is 5 + 1?
+4) What is 9 - 2?
+5) What is 4 + 3?
+6) What is 10 - 5? 
+
+----------

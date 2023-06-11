@@ -1,0 +1,52 @@
+
+cover img desc: a row of different colored crayons with cartoon dogs on them and a fireman on the front
+
+>>> kid_img2puzzle tokens: 1122
+<<<
+Color recognition:
+1) Which is green dog crayon?
+2) Which is purple dog crayon?
+3) Which is blue dog crayon?
+4) Which is yellow dog crayon?
+5) Which is black dog crayon?
+6) Which is pink dog crayon?
+----------
+Shape recognition:
+1) Which crayon is shaped like a rectangle?
+2) Which crayon is shaped like a triangle?
+3) Which crayon is shaped like a circle?
+4) Which crayon is shaped like a star?
+5) Which crayon is shaped like a heart?
+6) Which crayon is shaped like a square?
+----------
+Letter recognition:
+1) Which crayon has the letter "D" on it?
+2) Which crayon has the letter "E" on it?
+3) Which crayon has the letter "G" on it?
+4) Which crayon has the letter "J" on it?
+5) Which crayon has the letter "M" on it?
+6) Which crayon has the letter "N" on it?
+----------
+Common animal recognition:
+1) Which crayon has a picture of a dog with a red collar?
+2) Which crayon has a picture of a dog with a yellow collar?
+3) Which crayon has a picture of a dog with a green collar?
+4) Which crayon has a picture of a dog with a blue collar?
+5) Which crayon has a picture of a dog with a pink collar?
+6) Which crayon has a picture of a dog with a purple collar?
+----------
+Counting:
+1) How many crayons are there in total?
+2) How many dogs are there on the crayons?
+3) How many dogs have green collars?
+4) How many crayons have a blue background?
+5) How many crayons have a red background?
+6) How many crayons have a yellow background?
+----------
+Addition and subtraction:
+1) If you have two green dog crayons and three purple dog crayons, how many dog crayons do you have in total?
+2) If you have six crayons and give two to your friend, how many crayons do you have left?
+3) If you have five crayons and buy two more, how many crayons do you have in total?
+4) If you have three dog crayons and give one to your friend, how many dog crayons do you have left?
+5) If you have four crayons and lose one, how many crayons do you have left?
+6) If you have seven crayons and give three to your sister, how many crayons do you have left?

@@ -1,0 +1,63 @@
+Set 1: Color Recognition
+Which baby has blue hair?
+Which baby has brown eyes?
+Which baby has pink hair?
+Which baby has green eyes?
+Which baby has purple hair?
+Which baby has yellow eyes?
+Set 2: Shape Recognition
+Which shape is a circle?
+Which shape is a square?
+Which shape is a triangle?
+Which shape is a heart?
+Which shape is a star?
+Which shape is a diamond?
+Set 3: Emotion Recognition
+Which baby looks happy?
+Which baby looks sad?
+Which baby looks surprised?
+Which baby looks angry?
+Which baby looks scared?
+Which baby looks excited?
+Set 4: Letters Recognition
+Which baby's name starts with the letter 'A'?
+Which baby's name starts with the letter 'B'?
+Which baby's name starts with the letter 'C'?
+Which baby's name starts with the letter 'D'?
+Which baby's name starts with the letter 'E'?
+Which baby's name starts with the letter 'F'?
+Set 5: Common Animal Recognition
+Which baby is next to a cat?
+Which baby is next to a dog?
+Which baby is next to a rabbit?
+Which baby is next to a bird?
+Which baby is next to a turtle?
+Which baby is next to a fish?
+Set 6: Size Comparison
+Which baby is taller?
+Which baby is shorter?
+Which baby is bigger?
+Which baby is smaller?
+Which baby is taller than the other?
+Which baby is shorter than the other?
+Set 7: Counting
+How many babies are there in total?
+How many boys are there?
+How many girls are there?
+How many babies have blue hair?
+How many babies have brown eyes?
+How many babies have pink hair?
+Set 8: Number Recognition
+Which baby is standing next to the number '1'?
+Which baby is standing next to the number '2'?
+Which baby is standing next to the number '3'?
+Which baby is standing next to the number '4'?
+Which baby is standing next to the number '5'?
+Which baby is standing next to the number '6'?
+Set 9: Addition and Subtraction
+If there are 2 babies and one leaves, how many babies are left?
+If there are 4 babies and two more join, how many babies are there in total?
+If there are 3 babies and one more baby arrives, how many babies are there now?
+If there are 5 babies and three leave, how many babies are left?
+If there are 6 babies and four more join, how many babies are there in total?
+If there are 7 babies and two leave, how many babies are left?

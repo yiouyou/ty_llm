@@ -1,0 +1,64 @@
+
+Set 1: Shape Recognition
+Which shape is the toy with a face on it?
+Which shape is the ball with eyes on it?
+Which shape is round?
+Which shape is square?
+Which shape is triangular?
+Which shape is rectangular?
+Set 2: Color Recognition
+What color is the toy with a face on it?
+What color is the ball with eyes on it?
+Which object is red?
+Which object is blue?
+Which object is yellow?
+Which object is green?
+Set 3: Emotion Recognition
+Which object looks happy?
+Which object looks sad?
+Which object looks surprised?
+Which object looks angry?
+Which object looks scared?
+Which object looks excited?
+Set 4: Size Comparison
+Which object is bigger?
+Which object is smaller?
+Which object is larger than the other?
+Which object is smaller than the other?
+Which object is big?
+Which object is small?
+Set 5: Letters Recognition
+Which letter represents the toy with a face on it?
+Which letter represents the ball with eyes on it?
+Which letter is the first letter of the toy's name?
+Which letter is the first letter of the ball's name?
+Which letter comes after 'A'?
+Which letter comes before 'D'?
+Set 6: Common Animal Recognition
+Which object is next to an animal?
+Which object is next to a toy?
+Which object represents an animal?
+Which object represents a toy?
+Which object is related to animals?
+Which object is related to toys?
+Set 7: Counting
+How many objects are there in total?
+How many toys are there?
+How many balls are there?
+How many objects have faces?
+How many objects have eyes?
+How many objects have a specific color?
+Set 8: Number Recognition
+Which object is associated with the number '1'?
+Which object is associated with the number '2'?
+Which object is associated with the number '3'?
+Which object is associated with the number '4'?
+Which object is associated with the number '5'?
+Which object is associated with the number '6'?
+Set 9: Addition and Subtraction
+If there are 3 objects and one more is added, how many objects are there in total?
+If there are 5 objects and two are taken away, how many objects are left?
+If there are 2 objects and one more is added, how many objects are there now?
+If there are 4 objects and three are taken away, how many objects are left?
+If there are 6 objects and two more are added, how many objects are there in total?
+If there are 7 objects and four are taken away, how many objects are left?

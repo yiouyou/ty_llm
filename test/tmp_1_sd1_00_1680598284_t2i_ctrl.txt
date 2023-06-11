@@ -1,0 +1,16 @@
+Prompt: green dog crayon
+Negative Prompt: nfsw, nude, naked, blurry, out of focus, ugly, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, missing limb, floating limbs, disconnected limbs, malformed hands, mutated hands, poorly drawn hands, fused fingers, too many fingers, extra fingers, (((mutated hands and fingers))), long neck, (((out of frame)))
+Sampler: Euler a
+Steps: 30
+Size: 512*512
+CFG Scale: 11.0
+Denoising Strength: 0.75
+Seed: 1279244852
+Styles: []
+Model Name: sd1\sd15-pruned-ema.ckpt
+Model Hash: cc6cb27103
+
+infotexts: 
+green dog crayon
+Negative prompt: nfsw, nude, naked, blurry, out of focus, ugly, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, missing limb, floating limbs, disconnected limbs, malformed hands, mutated hands, poorly drawn hands, fused fingers, too many fingers, extra fingers, (((mutated hands and fingers))), long neck, (((out of frame)))
+Steps: 30, Sampler: Euler a, CFG scale: 11.0, Seed: 1279244852, Size: 512x512, Model hash: cc6cb27103, Seed resize from: -1x-1, Denoising strength: 0.75
