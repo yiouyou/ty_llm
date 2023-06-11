@@ -1,0 +1,9 @@
+openai
+tiktoken
+langchain
+Pillow
+gradio
+clip-interrogator
+transformers
+diffusers
+accelerate

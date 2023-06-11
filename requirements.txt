@@ -1,0 +1,6 @@
+openai
+tiktoken
+langchain
+Pillow
+gradio
+clip-interrogator
